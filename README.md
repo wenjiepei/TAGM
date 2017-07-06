@@ -8,5 +8,5 @@ The code is implemented in Lua and Torch. It contains mainly the following parts
 * package 'model' contains the required models including attention model, TAGM, LSTM, GRU and plain-RNN. 
 * package 'util' contains the required small utilities such as data loader. 
 
-Feel free to contact [Wenjie Pei](wenjiepei.github.io) (wenjiecoder@gmail.com).
+Feel free to contact [Wenjie Pei](https://wenjiepei.github.io/) (wenjiecoder@gmail.com).
 
