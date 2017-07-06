@@ -6,6 +6,7 @@ This code was implemented refered to the implementation 'https://github.com/karp
 
 Copyright (c) 2016 Wenjie Pei
 Delft University of Technology 
+Carnegie Mellon University
 
 ]]--
 
