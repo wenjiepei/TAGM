@@ -2,6 +2,8 @@
 
 This is the implementation of the Temporal Attention-Gated Model (TAGM) for robust sequence classification.
 
+This code was implemented refered to the implementation 'https://github.com/karpathy/char-rnn'.
+
 Copyright (c) 2016 Wenjie Pei
 Delft University of Technology 
 
